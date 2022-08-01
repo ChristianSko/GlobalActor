@@ -11,7 +11,7 @@ import SwiftUI
 struct GlobalActorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GlobalActorView()
         }
     }
 }
